@@ -12,8 +12,9 @@ Bio v1.5.9
 
 
 
-Folder **RESULTS** contains final output file - answers for tasks  
+Folder **RESULTS** contains final output file - answers for tasks
+
      
-**report.ipynb** describes all commands, steps, explanations and interpretations    
+**report.ipynb** describes all commands, steps, explanations and interpretations   
 
 File with hg19 genome annotations is too big, so you can download it using link https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/genes/hg19.ncbiRefSeq.gtf.gz 
